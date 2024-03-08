@@ -1,0 +1,11 @@
+https://youtu.be/6490tKrGEic?si=PWMMlYxMjhyvynlS
+https://youtu.be/FpGeg27Ffk8?si=yvsFhx-aELXFU22D
+https://youtu.be/-Bs2Uy3zGsw?si=lIjao0n-SEFljL8a
+https://youtu.be/-fsiD7iRTTY?si=z7_lQJJB8fRs0ygE
+https://youtu.be/-fsiD7iRTTY?si=rPysJr1smNcbv74x
+https://youtu.be/RXmaFcKBYrc?si=mGceGuUImtafwWWS
+
+CA04 references
+1. https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/krml220.pdf
+2. https://dafny.org/dafny/DafnyRef/DafnyRef#sec-while-statement
+3. https://github.com/bor0/dafny-tutorial/tree/master
